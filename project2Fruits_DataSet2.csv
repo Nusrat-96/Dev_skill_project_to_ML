@@ -1,0 +1,32 @@
+Fruits,Season_month,Current_month,Disaster Happen in last 3 month,Fruits on season or not,Fruits Condition,Price have to be,Current Price,Price in Limit
+Mango,june-august,June,0,1,Fresh,30,30,Yes
+Guava,july-october,December,1,0,Fresh,39,30,Yes
+Banana,august-october,December,0,0,Fresh,10,15,No
+Jackfruit,june-july,December,0,0,Preserved,110,110,Yes
+Litchis ,may-june,July,1,0,Fresh,70,70,Yes
+Mango,june-august,October,0,0,Preserved,100,150,No
+Guava,july-october,August,1,1,Fresh,30,20,Yes
+Banana,august-october,January,1,0,Preserved,15,20,No
+Jackfruit,june-july,July,0,1,Fresh,60,50,Yes
+Litchis ,may-june,May,1,1,Fresh,50,65,No
+Mango,june-august,July,1,1,Fresh,50,80,No
+Guava,july-october,September,0,1,Fresh,35,40,No
+Banana,august-october,August,0,1,Preserved,12,11,Yes
+Jackfruit,june-july,June,1,1,Preserved,65,68,Yes
+Litchis ,may-june,August,0,0,Preserved,60,55,Yes
+Mango,june-august,August,0,1,Fresh,40,40,Yes
+Banana,august-october,September,1,1,Fresh,20,12,Yes
+Jackfruit,june-july,June,0,1,Fresh,60,80,No
+Litchis ,may-june,September,0,0,Preserved,60,66,No
+Mango,june-august,December,0,0,Preserved,100,90,Yes
+Banana,august-october,November,0,0,Preserved,10,22,No
+Jackfruit,june-july,July,1,1,Fresh,65,110,No
+Litchis ,may-june,June,0,1,Fresh,30,25,Yes
+Mango,june-august,September,1,0,Preserved,65,70,No
+Banana,august-october,October,0,1,Fresh,15,14,Yes
+Litchis ,may-june,November,1,0,Preserved,60,60,Yes
+Mango,june-august,September,0,0,Fresh,45,45,Yes
+Mango,june-august,January,1,0,Preserved,110,110,No
+Mango,june-august,August,1,1,Fresh,60,60,Yes
+Mango,june-august,August,0,1,Fresh,30,60,No
+Banana,august-october,July,0,0,Preserved,30,20,Yes
